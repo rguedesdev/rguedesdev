@@ -4,42 +4,26 @@
 - 🌱 Estou estudando React Native e Flutter ...
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rei-Js" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rei-Ts" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rei-React" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rei-NextJS" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Rei-NodeJS" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rei-TaailwindCSS" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  
-  
-          
-       
-  
-  <img align="center" alt="Rei-HTML" height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rei-CSS" height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rei-Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  
-  <img align="center" alt="Rei-MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">  
-  <img align="center" alt="Rei-MySql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
-  <img align="center" alt="Rei-Dart" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Rei-Flutter" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
- 
-  
-   <img align="center" alt="Rei-PHP" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-   <img align="center" alt="Rei-Laravel" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  
-   <img align="center" alt="Rei-Docker" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
- 
-   <img align="center" alt="Rei-Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  
-   <img align="center" alt="Rei-Git" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-   <img align="center" alt="Rei-Github" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  
-  
-   <img align="center" alt="Rei-AWS3" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">  
-  
-   <img align="center" alt="Rei-AWS2" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Rei-Js" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Rei-Ts" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img align="center" alt="Rei-React" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img align="center" alt="Rei-NextJS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
+  <img align="center" alt="Rei-NodeJS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="Rei-TaailwindCSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
+  <img align="center" alt="Rei-HTML" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="Rei-CSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Rei-Bootstrap" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
+  <img align="center" alt="Rei-MongoDB" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">  
+  <img align="center" alt="Rei-MySql" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Rei-Dart" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">
+  <img align="center" alt="Rei-Flutter" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
+  <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
+  <img align="center" alt="Rei-Laravel" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
+  <img align="center" alt="Rei-Docker" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="Rei-Firebase" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg">
+  <img align="center" alt="Rei-Git" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img align="center" alt="Rei-Github" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
+  <img align="center" alt="Rei-AWS4" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
   
   
 </div>

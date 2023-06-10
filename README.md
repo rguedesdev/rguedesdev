@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo(a) ao meu perfil!
 
-- 🔭 Estou em busca de busca de uma oportunidada para trabalhar como desenvolvedor Front-end, Backend ou Full Stack ...
-- 🌱 Estou estudando React Native e Flutter ...
+- 🔭 Estou em busca de busca de uma oportunidada para trabalhar como desenvolvedor Front-end, Backend ou Full Stack.
+- 🌱 Estou estudando atualmente Next, React Native e Flutter...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rei-Js" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">

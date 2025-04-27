@@ -12,10 +12,10 @@
  
   <img align="center" alt="Rei-GraphQl" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg">
   <img align="center" alt="Rei-Apollo" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg">
-  <img align="center" alt="Rei-TaailwindCSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Rei-MongoDB" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">  
   <img align="center" alt="Rei-Docker" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   <img align="center" alt="Rei-AWS4" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
+  <img align="center" alt="Rei-TaailwindCSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Rei-Git" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img align="center" alt="Rei-Github" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
  

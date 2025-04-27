@@ -15,8 +15,6 @@
   <img align="center" alt="Rei-Bootstrap" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
   <img align="center" alt="Rei-MongoDB" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">  
   <img align="center" alt="Rei-MySql" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-  <img align="center" alt="Rei-Dart" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">
-  <img align="center" alt="Rei-Flutter" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
   <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
   <img align="center" alt="Rei-Laravel" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
   <img align="center" alt="Rei-Docker" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">

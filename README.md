@@ -15,8 +15,7 @@
   <img align="center" alt="Rei-Bootstrap" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
   <img align="center" alt="Rei-MongoDB" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">  
   <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
-  <img align="center" alt="Rei-Docker" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-  <img align="center" alt="Rei-Firebase" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"> <br /><br />
+  <img align="center" alt="Rei-Docker" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"><br />
   
   <img align="center" alt="Rei-Git" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img align="center" alt="Rei-Github" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">

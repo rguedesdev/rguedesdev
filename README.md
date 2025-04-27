@@ -12,7 +12,6 @@
   <img align="center" alt="Rei-TaailwindCSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Rei-HTML" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Rei-CSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="Rei-Bootstrap" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
   <img align="center" alt="Rei-MongoDB" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">  
   <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
   <img align="center" alt="Rei-Docker" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">

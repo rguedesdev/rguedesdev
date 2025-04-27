@@ -4,7 +4,6 @@
 - 🌱 Atualmente estou estudando Next, React Native e Flutter...
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rei-Js" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Rei-Ts" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img align="center" alt="Rei-React" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img align="center" alt="Rei-NextJS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
@@ -12,6 +11,7 @@
   <img align="center" alt="Rei-TaailwindCSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Rei-HTML" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Rei-CSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+   <img align="center" alt="Rei-Js" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Rei-Bootstrap" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
   <img align="center" alt="Rei-MongoDB" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">  
   <img align="center" alt="Rei-MySql" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">

@@ -21,9 +21,8 @@
   
   <img align="center" alt="Rei-Python" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img align="center" alt="Rei-Cpp" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
-   <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"><br>
-   
-  <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
+   <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg">   
+  <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"><br><br>
 
   <img align="center" alt="Rei-HTML" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Rei-CSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">

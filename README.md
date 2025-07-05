@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando GraphQl, Apollo Server, C++, Python e React Native.
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Rei-Js" height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+   <img align="center" alt="Rei-Js" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Rei-Ts" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img align="center" alt="Rei-React" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img align="center" alt="Rei-NextJS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">

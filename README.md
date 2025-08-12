@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo(a) ao meu perfil!
 
-- 🔭 Estou em busca de busca de uma oportunidada para trabalhar como desenvolvedor Front-end, Backend ou Full Stack.
+- 🔭 Estou em busca de busca de uma oportunidada para trabalhar como desenvolvedor Frontend, Backend ou Full Stack.
 - 🌱 Atualmente estou estudando GraphQl, Apollo Server, C++, Python e React Native.
 
 <div style="display: inline_block"><br>

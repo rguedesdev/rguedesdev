@@ -30,6 +30,8 @@
   
 </div>
 
+![Docker](https://img.shields.io/badge/docker-066da5?style=for-the-badge&logo=docker&logoColor=white)
+
 ##
 
 <div> 

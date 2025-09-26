@@ -9,7 +9,8 @@
   <img align="center" alt="Rei-React" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img align="center" alt="Rei-NextJS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
   <img align="center" alt="Rei-NodeJS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Rei-Deno" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/deno.svg">
+  <img align="center" alt="Rei-Deno" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DENO-Dark.svg">
+
  
   <img align="center" alt="Rei-GraphQl" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg">
   <img align="center" alt="Rei-Apollo" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg">

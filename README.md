@@ -28,7 +28,7 @@
   <img align="center" alt="Rei-HTML" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Rei-CSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   
-</div>
+</div> <br />
 
 ![Docker](https://img.shields.io/badge/docker-066da5?style=for-the-badge&logo=docker&logoColor=white)
 

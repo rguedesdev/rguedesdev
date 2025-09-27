@@ -29,7 +29,8 @@
   <img align="center" alt="Rei-CSS" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   
 </div> <br />
-![Git](https://img.shields.io/badge/Git-#F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-066da5?style=for-the-badge&logo=github&logoColor=white)
 
 ##

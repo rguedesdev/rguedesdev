@@ -3,7 +3,7 @@
 - 🔭 Estou em busca de uma oportunidade para trabalhar como desenvolvedor **Frontend**, **Backend** ou **Full Stack**.  
 - 🌱 Atualmente estou estudando **C++**, **Python** e **Rust**.
 
----
+--
 
 ## 🚀 Tecnologias
 

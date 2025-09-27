@@ -41,6 +41,10 @@
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 
+## 💻 Tech Stack Highlights
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rguedesdev&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117)
+
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rguedes.dev@gmail.com)

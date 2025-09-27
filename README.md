@@ -22,7 +22,7 @@
    <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg">   
   <img align="center" alt="Rei-PHP" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"><br><br>
   
-</div> <br />
+</div>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)

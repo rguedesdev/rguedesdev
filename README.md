@@ -3,8 +3,6 @@
 - 🔭 Estou em busca de uma oportunidade para trabalhar como desenvolvedor **Frontend**, **Backend** ou **Full Stack**.  
 - 🌱 Atualmente estou estudando **C++**, **Python** e **Rust**.
 
---
-
 ## 🚀 Tecnologias
 
 <p>
@@ -25,8 +23,6 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" height="45"/>
 </p>
 
----
-
 ## 🛠️ Outras Tecnologias & Ferramentas
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,8 +33,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
----
 
 ## 📫 Contato
 

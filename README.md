@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando C++, Python e Rust.
 
 ## Tecnologias
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rei-Js" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Rei-Ts" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img align="center" alt="Rei-React" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">

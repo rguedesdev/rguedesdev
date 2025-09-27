@@ -39,6 +39,10 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apachekafka](https://img.shields.io/badge/Kafka-326CE5?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
+
+
+gitkraken
 
 ## 📫 Contato
 

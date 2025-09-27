@@ -3,7 +3,7 @@
 - 🔭 Estou em busca de busca de uma oportunidada para trabalhar como desenvolvedor Frontend, Backend ou Full Stack.
 - 🌱 Atualmente estou estudando C++, Python e Rust.
 
-### Tecnologias
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Rei-Js" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Rei-Ts" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">

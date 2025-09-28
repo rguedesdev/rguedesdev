@@ -20,6 +20,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="45"/>
 </p>

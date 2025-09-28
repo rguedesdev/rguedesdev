@@ -20,8 +20,6 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Apollo.svg" height="45"/>
 </p>
 
 ## 🛠️ Outras Tecnologias & Ferramentas

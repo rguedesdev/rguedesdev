@@ -10,6 +10,9 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" height="45"/>  
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DENO-Dark.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg" height="45"/>
@@ -18,9 +21,6 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" height="45"/>
 </p>
 

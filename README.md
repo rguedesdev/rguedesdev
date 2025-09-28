@@ -6,6 +6,8 @@
 ## 🚀 Tecnologias
 
 <p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="45"/>
@@ -20,9 +22,6 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="45"/>
-
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="45"/>
 </p>
 
 ## 🛠️ Outras Tecnologias & Ferramentas

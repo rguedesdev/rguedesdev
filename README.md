@@ -24,7 +24,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="45"/>
 
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/kotlin-Dark.svg" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" height="45"/>
 </p>
 
 ## 🛠️ Outras Tecnologias & Ferramentas

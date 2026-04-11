@@ -49,14 +49,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rguedesdev&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117&custom_title=Linguagens%20Mais%20Usadas)
 
-- uses: lowlighter/metrics@latest
-  with:
-    user: rguedesdev
-    plugin_languages: yes
-    plugin_languages_sections: most-used
-    plugin_languages_limit: 8
-    plugin_languages_indepth: yes
-
 ## 📫 Contato
 
 [![Protonmail](https://img.shields.io/badge/Protonmail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:reinaldo.guedes@protonmail.com)

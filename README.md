@@ -49,7 +49,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rguedesdev&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117&custom_title=Linguagens%20Mais%20Usadas)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rguedesdev&theme=dark&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rguedesdev&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rguedesdev&layout=compact)
 
 ## 📫 Contato
 

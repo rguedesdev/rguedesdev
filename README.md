@@ -1,7 +1,7 @@
 ## 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
 - 🔭 Estou em busca de uma oportunidade para trabalhar como desenvolvedor **Frontend**, **Backend** ou **Full Stack**.  
-- 🌱 Atualmente estou estudando **C++**, **Python** e **Rust**.
+- 🌱 Atualmente estou estudando **Rust**, **Kotlin**, **Compose Multiplataform**, **C++** e **Python**.
 
 ## 🚀 Tecnologias
 
